@@ -1,1 +1,1 @@
-# Multistagebuild-Python-app
+This project demonstrates how to containerize a Python application using Docker with a multi-stage build process. The multi-stage build optimizes the Docker image size by separating the build environment from the runtime environment.
